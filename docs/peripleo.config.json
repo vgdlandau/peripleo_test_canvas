@@ -11,7 +11,7 @@
     {
       "name": "Collections",
       "format": "LINKED_PLACES",
-      "src": "./data/0-PeripleoTest-Egypt_Collections_20231212.json",
+      "src": "./data/0-PeripleoTest-Collections_20231212.json",
       "attribution": "Victoria G. D. Landau © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
